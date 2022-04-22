@@ -3,3 +3,4 @@ Repositório para atividades vinculadas à disciplina de Gerencia de Configuraç
 
 ## Colaboradores
 * Igor Cabral (dono, @igrCabral)
+* Ramide Dantas (@ramidedantas)
