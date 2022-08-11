@@ -5,7 +5,7 @@ public class HelloWorld {
 		System.out.println("Hello World!!");
 		System.out.println("uma outra modificação no arquivo!- alterei esta linha de texto");
 		System.out.println("mais uma modificação.");
-		
+		System.out.println("uma modificação na main que não está na hotfix.");
 		
 
 	}
